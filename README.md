@@ -1,4 +1,3 @@
-# Node_Hosting_README
 
 # **Project Introduction**
 
